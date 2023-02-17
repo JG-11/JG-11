@@ -1,6 +1,6 @@
 ### Hi there 👋, welcome to my profile!
 
-- 😄 I’m a 22-year-old young with a Master's Degree in Computer Science.
+- 😄 I’m a 23-year-old young with a Master's Degree in Computer Science.
 - 🔭 I worked at Meta and Apple.
 - 🌱 I invite you to take a look at my most recent [research paper](https://doi.org/10.1109/ACCESS.2022.3211513).
 - ⚡️ I’m looking to collaborate on Open Source projects. Don't hesitate on reach me out!
